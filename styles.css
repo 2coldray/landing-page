@@ -146,3 +146,36 @@ section.quote .text h4 {
     font-size: 18px;
 }
 
+section.call {
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.call .banner {
+    background-color: #3882f6;
+    width: 800px;
+    padding: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section.call .banner .text h1 {
+    color: #f9faf8
+}
+
+section.call .banner .text p {
+    color: #e5e7eb;
+}
+
+section.call .banner .action {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 5px;
+    width: 150px;
+    border-radius: 3px;
+}
