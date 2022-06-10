@@ -179,3 +179,10 @@ section.call .banner .action {
     width: 150px;
     border-radius: 3px;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 30px;
+}
