@@ -89,8 +89,6 @@ li {
 
 section.random {
     margin-top: 70px;
-    margin-bottom: 80px;
-    border-bottom: 1px solid black;
 }
 
 section.random h1 {
@@ -125,5 +123,26 @@ section.random h1 {
     margin-bottom: 5px;
 }
 
+section.quote {
+    background-color: #e5e7eb;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
 
+section.quote .text {
+    width: 800px;
+}
+
+section.quote .text h3 {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+section.quote .text h4 {
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+}
 
