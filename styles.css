@@ -89,6 +89,8 @@ li {
 
 section.random {
     margin-top: 70px;
+    margin-bottom: 80px;
+    border-bottom: 1px solid black;
 }
 
 section.random h1 {
@@ -104,6 +106,7 @@ section.random h1 {
     justify-content: space-between;
     padding-left: 300px;
     padding-right: 300px;
+    margin-bottom: 50px;
 }
 
 .subtext .illustration {
